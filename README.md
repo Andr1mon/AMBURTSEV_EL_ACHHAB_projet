@@ -71,7 +71,3 @@ L'application guide les utilisateurs à travers les différents projets et propo
 8. Placez les objets 3D collectés dans l'espace en utilisant la détection de plans.
 
 9. Combinez les objets 3D pour former des objets plus grands et découvrir des surprises !
-
-  
-
-N'hésitez pas à nous contacter si vous avez des questions ou des commentaires !
