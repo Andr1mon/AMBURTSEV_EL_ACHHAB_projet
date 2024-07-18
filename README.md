@@ -71,3 +71,21 @@ L'application guide les utilisateurs à travers les différents projets et propo
 8. Placez les objets 3D collectés dans l'espace en utilisant la détection de plans.
 
 9. Combinez les objets 3D pour former des objets plus grands et découvrir des surprises !
+
+
+
+
+
+# Rapport
+
+![Amburtsev_EL_ACHHAB_rapport-01](https://github.com/user-attachments/assets/a3b4dcd0-a2bd-407b-8e59-da91ade243d3)
+![Amburtsev_EL_ACHHAB_rapport-02](https://github.com/user-attachments/assets/ecbce67e-c3ee-41c8-a870-641ed2aa56e7)
+![Amburtsev_EL_ACHHAB_rapport-03](https://github.com/user-attachments/assets/62ac29bf-65c4-46bd-a335-e3aa15213c4f)
+![Amburtsev_EL_ACHHAB_rapport-04](https://github.com/user-attachments/assets/0dd2bb5e-01a3-428c-8f45-bedae0894e81)
+![Amburtsev_EL_ACHHAB_rapport-05](https://github.com/user-attachments/assets/bcd3b9dc-ccb0-4cf9-99ed-df1171f137ac)
+![Amburtsev_EL_ACHHAB_rapport-06](https://github.com/user-attachments/assets/8a1d5897-3e5c-4ccc-97f7-447a80fa9f8e)
+![Amburtsev_EL_ACHHAB_rapport-07](https://github.com/user-attachments/assets/bf90ca5c-13ea-4164-9062-aadd82b625ca)
+![Amburtsev_EL_ACHHAB_rapport-08](https://github.com/user-attachments/assets/09886ee3-cd89-46b6-96aa-b6e969adef59)
+![Amburtsev_EL_ACHHAB_rapport-09](https://github.com/user-attachments/assets/888b6bf1-d4e7-4423-9989-65764f87aedd)
+![Amburtsev_EL_ACHHAB_rapport-10](https://github.com/user-attachments/assets/78773991-bbe6-4cd7-af07-33d5f233fd7a)
+
