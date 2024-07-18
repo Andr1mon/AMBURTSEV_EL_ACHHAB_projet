@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4641293983164202306
+  m_GuidHigh: 13319992721464602763
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5074385129183278824
+      m_GuidHigh: 693273336381540257
+    m_SerializedTextureGuid:
+      m_GuidLow: 3586158745248145641
+      m_GuidHigh: 14803054289268381627
+    m_Size: {x: 0.1, y: 0.14379802}
+    m_SpecifySize: 1
+    m_Name: RedCar
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5756874969385447693
+      m_GuidHigh: 11266815412793633438
+    m_SerializedTextureGuid:
+      m_GuidLow: 11805272501821913258
+      m_GuidHigh: 9256742244667200968
+    m_Size: {x: 0.1, y: 0.14133133}
+    m_SpecifySize: 1
+    m_Name: GreenCar
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4712006731471158955
+      m_GuidHigh: 18397505796812309391
+    m_SerializedTextureGuid:
+      m_GuidLow: 5982076815004918694
+      m_GuidHigh: 18176905357418267754
+    m_Size: {x: 0.1, y: 0.14125398}
+    m_SpecifySize: 1
+    m_Name: Chicken
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4776056641357753075
+      m_GuidHigh: 4664761328243892920
+    m_SerializedTextureGuid:
+      m_GuidLow: 7810539768366926253
+      m_GuidHigh: 77070117570355723
+    m_Size: {x: 0.1, y: 0.1388521}
+    m_SpecifySize: 1
+    m_Name: Deer
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5365434683016572030
+      m_GuidHigh: 6147329630029708182
+    m_SerializedTextureGuid:
+      m_GuidLow: 15894383051555172069
+      m_GuidHigh: 11663865937586351464
+    m_Size: {x: 0.1, y: 0.1391046}
+    m_SpecifySize: 1
+    m_Name: Dog
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5637233200582303452
+      m_GuidHigh: 15009623272803515819
+    m_SerializedTextureGuid:
+      m_GuidLow: 17583453639727173372
+      m_GuidHigh: 15713752289845008344
+    m_Size: {x: 0.1, y: 0.14128216}
+    m_SpecifySize: 1
+    m_Name: Horse
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5095711286883545810
+      m_GuidHigh: 12442387504308487611
+    m_SerializedTextureGuid:
+      m_GuidLow: 9760520320392025816
+      m_GuidHigh: 18283170476000203624
+    m_Size: {x: 0.1, y: 0.14362976}
+    m_SpecifySize: 1
+    m_Name: Kitty
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5043535253252011061
+      m_GuidHigh: 17588015310732852649
+    m_SerializedTextureGuid:
+      m_GuidLow: 9494952353923454734
+      m_GuidHigh: 15971313237680940808
+    m_Size: {x: 0.1, y: 0.13887496}
+    m_SpecifySize: 1
+    m_Name: Penguin
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5183370131589543023
+      m_GuidHigh: 14874550936046496165
+    m_SerializedTextureGuid:
+      m_GuidLow: 11372846227595534991
+      m_GuidHigh: 15403803362406749866
+    m_Size: {x: 0.1, y: 0.1443609}
+    m_SpecifySize: 1
+    m_Name: Tiger
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5381633917819164440
+      m_GuidHigh: 14623541457592482978
+    m_SerializedTextureGuid:
+      m_GuidLow: 5473092223471372761
+      m_GuidHigh: 4178358618150860683
+    m_Size: {x: 0.1, y: 0.1461925}
+    m_SpecifySize: 1
+    m_Name: Crystal
+    m_Texture: {fileID: 0}
